@@ -1,0 +1,5 @@
+com\arisnight\rpcommands\commands\MeCommand.class
+com\arisnight\rpcommands\commands\DoCommand.class
+com\arisnight\rpcommands\RPCommands.class
+com\arisnight\rpcommands\utils\Utils.class
+com\arisnight\rpcommands\commands\TryCommand.class
