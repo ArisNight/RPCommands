@@ -1,0 +1,13 @@
+name: RPCommands
+version: '${version}'
+main: com.arisnight.rpcommands.RPCommands
+api-version: '1.21'
+authors: [ArisNight_]
+website: https://github.com/ArisNight
+commands:
+  me:
+    usage: /me <message>
+  do:
+    usage: /do <message>
+  try:
+    usage: /try <message>
