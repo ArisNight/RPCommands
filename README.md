@@ -3,4 +3,4 @@
 
 /try — to try something,
 
-/me - 
+/me - say something in the third person
